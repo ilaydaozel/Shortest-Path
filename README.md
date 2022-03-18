@@ -5,7 +5,7 @@ Reads an adjacency list from the standard input and outputs the shortest paths f
 vertex to all others and the path costs on the standard output.
 
 Example Input:
-4 /n
+4 
 a b 5 d 1
 b a 5 d 8
 c d 15
